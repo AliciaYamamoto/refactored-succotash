@@ -1,1 +1,8 @@
-
+<!doctype html>
+<div id="container-fluid">
+<div id="row>
+<div id="col-md-6">chicken</div>
+<div id="col-md-6"> beef </div>
+<div id="col-md-6"> sushi </div>
+</div>
+</div>
